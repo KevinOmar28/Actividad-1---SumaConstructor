@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad 1 - SumaCons", "Actividad 1 - Suma\Actividad 1 - SumaCons.csproj", "{00AE1D04-B56D-4751-BE23-62E875B8007B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00AE1D04-B56D-4751-BE23-62E875B8007B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AE1D04-B56D-4751-BE23-62E875B8007B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AE1D04-B56D-4751-BE23-62E875B8007B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AE1D04-B56D-4751-BE23-62E875B8007B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC8B665D-AA4D-4389-B050-B9CD51E21048}
+	EndGlobalSection
+EndGlobal
